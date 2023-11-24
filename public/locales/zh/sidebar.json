@@ -1,0 +1,18 @@
+{
+    "dashboard": "仪表板",
+    "menu-management": "菜单管理",
+    "permission-management": "权限管理",
+    "role-and-permission": "角色和权限",
+    "registration": "登记",
+    "list": "列表",
+    "admin-management": "管理",
+    "admin-registration": "登记",
+    "admin-list": "列表",
+    "product-management": "产品管理",
+    "category-registration": "类别注册",
+    "category-list": "类别列表",
+    "brand-management": "品牌管理",
+    "brand-registration": "品牌注册",
+    "brand-list": "列表",
+    "sub-category-registration": "Sub Category Registration"
+}

@@ -1,0 +1,18 @@
+{
+    "dashboard": "Dashboard",
+    "permission-management": "Permission Management",
+    "menu-management": "Menu Management",
+    "role-and-permission": "Role and Permission",
+    "registration": "Registration",
+    "list": "List",
+    "admin-management": "Admin Management",
+    "admin-registration": "Registration",
+    "admin-list": "List",
+    "product-management": "Product Management",
+    "category-registration": "Category Registration",
+    "category-list": "Category List",
+    "brand-management": "Brand Management",
+    "brand-registration": "Registration",
+    "brand-list": "List",
+    "sub-category-registration": "Sub Category Registration"
+}

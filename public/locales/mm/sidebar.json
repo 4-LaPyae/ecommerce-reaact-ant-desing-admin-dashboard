@@ -1,0 +1,18 @@
+{
+    "dashboard": "ဒက်ရှ်ဘုတ်",
+    "permission-management": "ခွင့်ပြုချက်စီမံခန့်ခွဲမှု",
+    "menu-management": "မီနူးစီမံခန့်ခွဲခြင်း",
+    "role-and-permission": "အခန်းကဏ္ဍနှင့် ခွင့်ပြုချက်",
+    "registration": "စာရင်းသွင်းခြင်း",
+    "list": "List",
+    "admin-management": "စီမံခန့်ခွဲခြင်း",
+    "admin-registration": "စာရင်းသွင်းခြင်း",
+    "admin-list": "စာရင်း",
+    "product-management": "ကုန်ပစ္စည်းစီမံခန့်ခွဲမှု",
+    "category-registration": "အမျိုးအစား စာရင်းသွင်းခြင်း",
+    "category-list": "အမျိုးအစား စာရင်း",
+    "brand-management": "ဘရန်း စီမံခန့်ခွဲခြင်း",
+    "brand-registration": "ဘရန်း စာရင်းသွင်းခြင်း",
+    "brand-list": "စာရင်း",
+    "sub-category-registration": "Sub Category Registration"
+}

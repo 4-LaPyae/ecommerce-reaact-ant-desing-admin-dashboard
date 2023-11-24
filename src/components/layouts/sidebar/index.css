@@ -1,0 +1,9 @@
+.ant-menu-title-content {
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+.brand.collapsed {
+    width: 80px;
+}

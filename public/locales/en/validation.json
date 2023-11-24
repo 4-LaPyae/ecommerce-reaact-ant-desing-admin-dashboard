@@ -1,0 +1,5 @@
+{
+	"required": "%s is required",
+	"min": "%s must be at least %s characters",
+	"invalid": "Invalid %s"
+}

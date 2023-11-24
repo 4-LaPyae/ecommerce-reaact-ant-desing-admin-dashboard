@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ant-layout {
+    min-height: 100vh;
+    background-color: #fdf7ff;
+}
+
+.ant-modal .ant-modal-header {
+    margin-bottom: 30px;
+}
+
+.ant-layout-sider .ant-menu {
+    border: none !important;
+}
+
+.middleware-error .ant-message-notice-content {
+    background-color: red !important;
+    color: white;
+}
